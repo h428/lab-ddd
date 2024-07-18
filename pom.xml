@@ -9,6 +9,8 @@
   <packaging>pom</packaging>
   <modules>
     <module>lab-web</module>
+    <module>lab-types</module>
+    <module>lab-domain</module>
   </modules>
   <version>1.0-SNAPSHOT</version>
 
